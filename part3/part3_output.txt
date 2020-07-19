@@ -1,0 +1,7 @@
+6 Hour Overview
+    The lowest temperature was 18.9°C, and occurred at 03:55 PM.
+    The highest temperature was 21.1°C, and occurred at 01:55 PM.
+    Precipitation for the last 24 hours was 1.0mm.
+    During the past 6 hours, precipitaion was recorded for 2 hours.
+    The number of daylight hours in the past 6 hours was 6 hours.
+    The maximum UV index was 3, and occurred at 01:55 PM.
